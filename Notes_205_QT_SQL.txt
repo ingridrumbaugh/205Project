@@ -1,0 +1,17 @@
+see slides that are posted on the 205 lecture page 
+Use qstring instead of std::string or whatever 
+qt wanted this type to be generic so they used their own 
+
+in .pro
+QT += core
+QT += sql 
+remove CONFIG -+ qt 
+
+#includes 
+"QString"
+"QSqlDatabase"
+"QSqlQuery"
+"QVariant"
+also <iostream> and <string 
+
+

@@ -1,0 +1,7 @@
+0. Using Templates (Vectors w/ Objects) 
+1. Templates 
+2. Pointer Passing / Ref
+3. STL Algorithm 
+4. Operator Overloading
+5. Enums 
+
